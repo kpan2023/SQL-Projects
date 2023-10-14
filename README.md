@@ -8,4 +8,4 @@ Which countries are company customers based in?
 Do sales figures vary between geographic regions?
 
 Additional references for this project:
-1. [Movie Sales Based on Categories](https://public.tableau.com/app/profile/kate.pan1810/viz/MovieCategorySale/CategorySale)
+1. [Movie Sales Based on Movie Categories](https://public.tableau.com/app/profile/kate.pan1810/viz/MovieCategorySale/CategorySale)
