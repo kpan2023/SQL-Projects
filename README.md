@@ -9,3 +9,5 @@ Do sales figures vary between geographic regions?
 
 Additional references for this project:
 1. [Movie Sales Based on Movie Categories](https://public.tableau.com/app/profile/kate.pan1810/viz/MovieCategorySale/CategorySale)
+2. [Countries Where Customers Are Located]
+(https://public.tableau.com/app/profile/kate.pan1810/viz/CustomersRegions/TotalCustomers)
