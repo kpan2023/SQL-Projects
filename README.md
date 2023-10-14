@@ -7,4 +7,5 @@ What was the average rental duration for all videos?
 Which countries are company customers based in?
 Do sales figures vary between geographic regions?
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+Additional references for this project:
+1. [Movie Sales Based on Categories](https://public.tableau.com/app/profile/kate.pan1810/viz/MovieCategorySale/CategorySale)
